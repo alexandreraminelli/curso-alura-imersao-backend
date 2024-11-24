@@ -27,6 +27,7 @@
     "dev": "",
     "test": ""
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
